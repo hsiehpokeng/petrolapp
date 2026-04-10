@@ -18,7 +18,8 @@ card_discounts = {
     "UOB One Card": {"SPC": 0.05, "Esso": 0.05, "Caltex": 0.05, "Shell": 0.2115, "Sinopec": 0.24},
     "Trust Card": {"SPC": 0.05, "Esso": 0.05, "Caltex": 0.20, "Shell": 0.05, "Sinopec": 0.05},
     "Citi Cash Back": {"SPC": 0.05, "Esso": 0.2088, "Caltex": 0.05, "Shell": 0.2088, "Sinopec": 0.05},
-    "OCBC 365": {"SPC": 0.05, "Esso": 0.05, "Caltex": 0.221, "Shell": 0.05, "Sinopec": 0.268}
+    "OCBC 365": {"SPC": 0.05, "Esso": 0.05, "Caltex": 0.221, "Shell": 0.05, "Sinopec": 0.268},
+    "Standard Chartered Smart": {"SPC": 0.05, "Esso": 0.05, "Caltex": 0.21, "Shell": 0.05, "Sinopec": 0.05}
 }
 
 # --- APP UI START ---
